@@ -18,7 +18,7 @@ npm start
 
 A basic offer select and order summary with the customer information form.
 
-Contains an example of using the [Create Cart](https://developers.29next.com/docs/api/campaigns/#create-cart) method to capture user information before going to a payment page creating an order.
+Contains an example of using the [Create Cart](https://developers.29next.com/docs/api/campaigns/#create-cart) method to capture user information before going to a payment page to complete the order.
 
 We are utilizing [Just Validate](https://just-validate.dev/) as an example of form validation
 

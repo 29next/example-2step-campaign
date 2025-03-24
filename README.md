@@ -1,7 +1,3 @@
-![c-api-git-hero](https://github.com/29next/example-campaign/assets/23140500/9b6bb450-7dd7-4de2-ae4a-bdc3b43c4bc9)
-
-
-
 # Example 2 Step Campaign
 
 This is an example of a simple 2 step campaign that demostrates a straight forward integration with the [29next Campaigns App](https://developers.29next.com/docs/api/campaigns/)
